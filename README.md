@@ -9,7 +9,7 @@
 
 ## 🎯 About Me
 
-<img align="right" width="250" src="/Code.gif" alt="Developer">
+<img align="right" width="250" src="https://media.giphy.com/media/SWoRKslHVtqgMwv1d7/giphy.gif" alt="Developer">
 
 - 👨‍💻 **Full-stack Web Developer** | Currently pursuing **BSc in CSE**
 - 🎨 **Web Designer** committed to crafting simple, original, and impactful user experiences
@@ -42,8 +42,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+---
 
-   
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+### 📈 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sif1t&show_icons=true&theme=radical&count_private=true&hide_border=false&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d)
+
+### 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sif1t&theme=radical&layout=compact&hide_border=false&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d)
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sif1t&theme=radical&hide_border=false&background=0d1117&border=30363d&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=00d9ff)
