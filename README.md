@@ -59,32 +59,6 @@
 
 </div>
 
----
-
-## 💼 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Professional Bangladeshi Supershop Website** | E-commerce platform for Bangladeshi retail business | React, Node.js, MongoDB, Tailwind CSS |
-| **Goli-Map** | Unique mapping and location-based service application | TypeScript, React, Next.js |
-| **eCommerce Website** | Full-featured shopping platform with payment integration | MERN Stack, Tailwind CSS |
-| **Netflix Clone** | Streaming platform replica with modern UI | React, API Integration, Tailwind CSS |
-| **Facebook/Joonbook Clone** | Social networking platform inspired by Facebook | MERN Stack, Socket.io |
-
----
-
-## 🎯 Current Mission
-
-### 🚀 Mission MERN 2026
-I'm on an exciting journey to master full-stack web development with the **MERN Stack**. My roadmap includes:
-- ✅ Building production-ready applications
-- ✅ Mastering advanced React patterns and performance optimization
-- ✅ Implementing secure backend architectures
-- ✅ Creating scalable database designs
-- ✅ Contributing to open-source projects
-
----
-
 ## 🤝 Let's Connect!
 
 I'd love to collaborate, discuss web development, design principles, or just grab a virtual coffee! Reach out through any of these channels:
@@ -98,12 +72,4 @@ I'd love to collaborate, discuss web development, design principles, or just gra
 
 </div>
 
----
 
-<div align="center">
-
-### ✨ "Code is poetry, design is emotion" ✨
-
-<img src="https://komarev.com/ghpvc/?username=sif1t&color=0d1117&style=for-the-badge" alt="Profile Views" />
-
-</div>
