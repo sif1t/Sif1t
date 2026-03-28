@@ -2,8 +2,8 @@
 
 <!-- Header with animated typing -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Web+Designer+%26+Developer;MERN+Stack+Enthusiast;Creating+Impactful+User+Experiences;Currently+on+Mission+MERN+2026" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Web+Designer" alt="Typing SVG" />
+</div> 
 
 ---
 
