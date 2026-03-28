@@ -9,7 +9,7 @@
 
 ## 🎯 About Me
 
-<img align="right" width="250" src="https://media.giphy.com/media/SWoRKslHVtqgMwv1d7/giphy.gif" alt="Developer">
+<img align="right" width="250" src="/Code.gif" alt="Developer">
 
 - 👨‍💻 **Full-stack Web Developer** | Currently pursuing **BSc in CSE**
 - 🎨 **Web Designer** committed to crafting simple, original, and impactful user experiences
