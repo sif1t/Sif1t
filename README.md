@@ -44,8 +44,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
   
 ### 🔥 GitHub Streak
