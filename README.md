@@ -48,12 +48,6 @@
 
 <div align="center">
   
-### 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sif1t&show_icons=true&theme=radical&count_private=true&hide_border=false&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d)
-
-### 🔝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sif1t&theme=radical&layout=compact&hide_border=false&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_color=30363d)
-
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sif1t&theme=radical&hide_border=false&background=0d1117&border=30363d&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=00d9ff)
 
